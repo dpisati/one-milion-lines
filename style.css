@@ -103,7 +103,7 @@ p {
 }
 
 .academylogo {
-	margin: 20px;
+	margin: 0px;
 }
 
 .homepage a {
@@ -156,4 +156,12 @@ h1 {
 		margin-left: 0px;
 		max-width: 1200px;
 	}
+}
+
+#who-we-are {
+	padding-top: 60px;
+}
+
+#get-envolved {
+	padding-top: 80px;
 }
